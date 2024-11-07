@@ -1,8 +1,3 @@
-```markdown
-# Project Name
-
-> A brief description of your project and its purpose.
-
 ## Prerequisites
 
 Before starting, make sure you have the necessary tools installed:
@@ -83,4 +78,3 @@ python ./index.py
 ## License
 
 Provide licensing information here if it applies to your project.
-```
