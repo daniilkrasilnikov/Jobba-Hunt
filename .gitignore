@@ -1,0 +1,5 @@
+.venv/
+*.html
+*.csv
+*.png
+*.log

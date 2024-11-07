@@ -1,0 +1,32 @@
+[
+    {
+        "name": "cookie_name_1",
+        "value": "cookie_value_1",
+        "domain": ".upwork.com",
+        "path": "/",
+        "expires": 1698249600,
+        "httpOnly": true,
+        "secure": true,
+        "sameSite": "Lax"
+    },
+    {
+        "name": "cookie_name_2",
+        "value": "cookie_value_2",
+        "domain": ".upwork.com",
+        "path": "/",
+        "expires": 1698249600,
+        "httpOnly": false,
+        "secure": true,
+        "sameSite": "None"
+    },
+    {
+        "name": "cookie_name_3",
+        "value": "cookie_value_3",
+        "domain": ".upwork.com",
+        "path": "/",
+        "expires": 1698249600,
+        "httpOnly": false,
+        "secure": true,
+        "sameSite": "Strict"
+    }
+]
