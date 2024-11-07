@@ -1,5 +1,3 @@
-Certainly! Here’s the translated `README.md` file:
-
 ```markdown
 # Project Name
 
