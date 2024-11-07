@@ -56,6 +56,7 @@ Before starting, make sure you have the necessary tools installed:
    ```
    This command will run the `run_bot.sh` script every 10 minutes and log outputs to `bot.log`.
 
+
 3. **Start the Cron service** (if it is not already running):
    ```bash
    sudo service cron start
