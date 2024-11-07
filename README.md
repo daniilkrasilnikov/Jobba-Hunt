@@ -1,5 +1,3 @@
-Certainly! Here’s the translated `README.md` file:
-
 ```markdown
 # Project Name
 
@@ -85,5 +83,3 @@ python ./index.py
 
 Provide licensing information here if it applies to your project.
 ```
-
-This `README.md` provides clear, structured instructions and includes information on Cron setup and useful commands for working with the project.
