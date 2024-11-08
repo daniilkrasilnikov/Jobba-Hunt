@@ -75,6 +75,3 @@ python ./index.py
   deactivate
   ```
 
-## License
-
-Provide licensing information here if it applies to your project.
